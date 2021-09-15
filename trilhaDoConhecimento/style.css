@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    background-color: rgb(3, 23, 78);
+   
+}
+
+.titulo {
+    padding: 100px;
+    font-family: 'Press Start 2P', cursive;
+    color: #fbec5d;
+    text-align: center;
+}
+
+.t1 {
+    padding: 50px;
+}
+
+.t2 {
+    padding: 20px;
+}
+
+.t4 {
+    padding: 15px;
+}
+
+.bloco-a{
+    margin: 100px;
+    background-color: ;
+    color: white;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 16pt;
+    text-align: justify;text-justify:inter-word;
+}
+
+footer{
+    margin: 0 50%;
+    font-family: 'Jura', sans-serif;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 16pt;
+    color: white;
+    color: #fbec5d;
+}
